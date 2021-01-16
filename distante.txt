@@ -1,0 +1,22 @@
+Rovaniemi --3967,40-- Oujda --287,92-- Fes --172,56-- Rabat --287,56-- Casablanca --222,05-- Marrakech
+
+
+Rovaniemi --3967,49-- Oujda
+	  --4124,06-- Fes
+	  --4187,44-- Rabat
+ 	  --4257,05-- Casablanca
+	  --4474,86-- Marrakech
+
+Oujda --287,92-- Fes
+      --457,35-- Rabat
+      --537,81-- Casablanca
+      --659,38-- Marrakech
+
+Fes --172,56-- Rabat
+    --250,15-- Casablanca
+    --391,49-- Marrakech
+
+Rabat --86,05-- Casablanca
+      --287,56-- Marrakech
+
+Casablanca --222,05-- Marrakech
